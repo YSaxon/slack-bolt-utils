@@ -1,2 +1,3 @@
-# slack-bolt-utils
-A collection of addons for creating slackbots with Slack's Bolt library in python
+# Python Slack Bolt Extensions
+
+A collection of functions and decorators for creating slackbots with Slack's Bolt library
